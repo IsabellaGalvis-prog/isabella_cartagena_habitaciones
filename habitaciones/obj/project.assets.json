@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Isabella Cartagena\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\isabella_cartagena_habitaciones\\habitaciones\\habitaciones.csproj",
+      "projectName": "habitaciones",
+      "projectPath": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\isabella_cartagena_habitaciones\\habitaciones\\habitaciones.csproj",
+      "packagesPath": "C:\\Users\\Isabella Cartagena\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\isabella_cartagena_habitaciones\\habitaciones\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Isabella Cartagena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
